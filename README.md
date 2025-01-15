@@ -1,7 +1,7 @@
-Babura Journal Science of Technology (BJST) - Research Management System (Frontend)
+Babura Journal Science of Science and Technology (BAJOSET) - Research Management System
 
 Overview:
-Babura Journal Science of Technology (BJST) is a comprehensive research management system designed to streamline the submission, review, and publication process for academic articles. This description focuses on the frontend development of the system.
+Babura Journal Science of Science and Technology (BAJOSET) is a comprehensive research management system designed to streamline the submission, review, and publication process for academic articles. This description focuses on the frontend development of the system.
 
 Key Features of the Frontend Interface:
 
